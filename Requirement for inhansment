@@ -1,0 +1,7 @@
+Can we use this map with user search point to our location with path. Like my position will constant with marker in center of container div.
+Its have a input field controls and button, where user fill location, when click on button or submit its show path from user search location to our location. 
+for reference : (http://www.archdiocesedelhi.org/ContactDirection/Default.aspx)
+
+I have try but not get succeed. I also refer some other like it(https://github.com/mjaric/google-maps-ng2 ) but its not working on angular5 or latest version.
+
+So I am requesting you people that if any reference rested it. please provide me.
